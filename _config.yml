@@ -7,8 +7,8 @@ menu:
 # SubNav
 subnav:
   github: "#"
-  weibo: "#"
-  rss: "#"
+#  weibo: "#"
+#  rss: "#"
   zhihu: "#"
   #qq: "#"
   #weixin: "#"
@@ -17,10 +17,10 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "#"
   #facebook: "#"
   #google: "#"
-  #twitter: "#"
+  twitter: "#"
   #linkedin: "#"
 
 rss: /atom.xml
