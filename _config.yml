@@ -59,7 +59,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: http://oql549fm2.bkt.clouddn.com/image/jpgchristmas-161316_640.png
 
 #是否开启分享
 share_jia: true
