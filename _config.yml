@@ -2,14 +2,14 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  笔记: /tags/笔记/
 
 # SubNav
 subnav:
   github: "#"
 #  weibo: "#"
 #  rss: "#"
-  zhihu: "#"
+#  zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -45,7 +45,7 @@ open_in_new: false
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
@@ -74,8 +74,8 @@ duoshuo: false
 wangyiyun: false
 
 #3、畅言
-changyan_appid: false
-changyan_conf: false
+changyan_appid: true
+changyan_conf: true
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
@@ -99,7 +99,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
@@ -110,4 +110,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: Code for Fun<br><br>Reading for Fun<br><br>Life for Fun
