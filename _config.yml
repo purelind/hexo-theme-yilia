@@ -2,11 +2,11 @@
 
 menu:
   主页: /
-  笔记: /tags/笔记/
+  笔记: /Diary
 
 # SubNav
 subnav:
-  github: "#"
+    github: "https://github.com/purelind"
 #  weibo: "#"
 #  rss: "#"
 #  zhihu: "#"
@@ -17,11 +17,11 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  mail: "#"
+    mail: "kevinsocial@outlook"
   #facebook: "#"
   #google: "#"
-  twitter: "#"
-  #linkedin: "#"
+    twitter: "https://twitter.com/purelind"
+  # linkedin: "#"
 
 rss: /atom.xml
 
